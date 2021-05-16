@@ -238,6 +238,7 @@ nav {
 
       .cover img {
           height: 20%;
+          animation: none;
       }
 
       .big-circle,
